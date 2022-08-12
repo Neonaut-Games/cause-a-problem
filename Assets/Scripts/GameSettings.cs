@@ -54,7 +54,7 @@ public class GameSettings : MonoBehaviour
                 break;
             default:
                 sliderTitle.SetText("Unknown Tier");
-                sliderDescription.SetText("Whoops, wiggle the slider a little bit.");
+                sliderDescription.SetText("Whoops, select something else; wiggle the slider a little bit.");
                 break;
         }
     }
